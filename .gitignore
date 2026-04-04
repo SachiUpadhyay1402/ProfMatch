@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+venv_new/
+.env
+*.pkl
+node_modules/
+.DS_Store
+dist/
+build/
+.vscode/
+.idea/
